@@ -1,1 +1,3 @@
-console.log('Update branch master')
+<<<<<<< HEAD
+console.log('Update branch master & Update branch new-feature')
+
